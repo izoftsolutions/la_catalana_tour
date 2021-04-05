@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18007" appversion="6.1.10" start="node1">
+  <panorama id="node1">
+    <input leveltilesize="510" width="1520" height="1520" levelingroll="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level preload="0" width="1520" height="1520" predecode="0"/>
+      <level preload="0" width="760" height="760" predecode="0"/>
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-102.3" fovmode="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata description="" longitude="-80.28100015" heading="-102.3" datetime="3/28/2021 12:05 PM" info="" latitude="25.93997441" nodeid="node1" streetviewlink="https://www.google.com/maps/@25.9399744,-80.2810001,3a,75y,257.7h/data=!3m4!1e1!3m2!1sAF1QipM1X9rCbqWKUUSK5XE3tZF0mBaqn5mrVqFcNrS4!2e10" tags="jpg" copyright="" customnodeid="" altitude="3.50" source="" comment="" title="IMG_20210328_120552_00_109.insp" author=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" bordercolor="0x000000" border="1" wordwrap="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderradius="1" borderalpha="1" background="1" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node2}" description="" target="-115.5/-7.6/100.0" id="Point01" distance="3.78409" pan="-95.75" tilt="-10.91" skinid="ht_node" title="IMG_20210328_120638_00_110.insp"/>
+      <hotspot url="{node9}" description="" target="153.3/-24.0/100.0" id="Point02" distance="4.71631" pan="-47.95" tilt="-7.4" skinid="ht_node" title="IMG_20210328_122035_00_117.insp"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" zoomfov="20" type="crossdissolve" blendcolor="0x000000" softedge="0" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomin="0" zoomspeed="2" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" simulatemass="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" sensitivity="8" invertwheel="0" speedwheel="1" hideabout="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" width="1520" height="1520" levelingroll="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level preload="0" width="1520" height="1520" predecode="0"/>
+      <level preload="0" width="760" height="760" predecode="0"/>
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-116.13" fovmode="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata description="" longitude="-80.28099984" heading="-116.13" datetime="3/28/2021 12:06 PM" info="" latitude="25.94000844" nodeid="node2" streetviewlink="https://www.google.com/maps/@25.9400084,-80.2809998,3a,75y,243.87h/data=!3m4!1e1!3m2!1sAF1QipMJnfrlw2Co4fBirqA5WTdUQ_WPqGYtKv938OvZ!2e10" tags="jpg" copyright="" customnodeid="" altitude="2.90" source="" comment="" title="IMG_20210328_120638_00_110.insp" author=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" bordercolor="0x000000" border="1" wordwrap="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderradius="1" borderalpha="1" background="1" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node3}" description="" target="-116.9/-11.5/100.0" id="Point01" distance="2.98232" pan="-110.9" tilt="-6.17" skinid="ht_node" title="IMG_20210328_120719_00_111.insp"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" zoomfov="20" type="crossdissolve" blendcolor="0x000000" softedge="0" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomin="0" zoomspeed="2" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" simulatemass="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" sensitivity="8" invertwheel="0" speedwheel="1" hideabout="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" width="1520" height="1520" levelingroll="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level preload="0" width="1520" height="1520" predecode="0"/>
+      <level preload="0" width="760" height="760" predecode="0"/>
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-102.3" fovmode="0">
+      <start projection="4" fov="100" pan="-28.7" tilt="-2.72"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata description="" longitude="-80.28100101" heading="-102.3" datetime="3/28/2021 12:07 PM" info="" latitude="25.94003524" nodeid="node3" streetviewlink="https://www.google.com/maps/@25.9400352,-80.281001,3a,75y,286.4h/data=!3m4!1e1!3m2!1sAF1QipOCwYFBIWCLBYXo4XWGcL7sUzAqohsG10bZlDOz!2e10" tags="jpg" copyright="" customnodeid="" altitude="2.90" source="" comment="" title="IMG_20210328_120719_00_111.insp" author=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" bordercolor="0x000000" border="1" wordwrap="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderradius="1" borderalpha="1" background="1" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node7}" description="" target="175.9/-11.0/100.0" id="Point01" distance="4.87235" pan="-51.64" tilt="-8.65" skinid="ht_node" title="IMG_20210328_121557_00_115.insp"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" zoomfov="20" type="crossdissolve" blendcolor="0x000000" softedge="0" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomin="0" zoomspeed="2" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" simulatemass="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" sensitivity="8" invertwheel="0" speedwheel="1" hideabout="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltilesize="510" width="1520" height="1520" levelingroll="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level preload="0" width="1520" height="1520" predecode="0"/>
+      <level preload="0" width="760" height="760" predecode="0"/>
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="83.64" fovmode="0">
+      <start projection="4" fov="100" pan="175.07" tilt="-13.05"/>
+      <flyin projection="4" fov="100" pan="174.87" tilt="-12.8"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata description="" longitude="-80.28104829" heading="83.64" datetime="3/28/2021 12:15 PM" info="" latitude="25.94002464" nodeid="node7" streetviewlink="https://www.google.com/maps/@25.9400246,-80.2810483,3a,75y,268.57h/data=!3m4!1e1!3m2!1sAF1QipO1Sd1pqCVXjkcjBElRb3Bnlsw8yd4iW1_QzNBs!2e10" tags="jpg" copyright="" customnodeid="" altitude="2.80" source="" comment="" title="IMG_20210328_121557_00_115.insp" author=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" bordercolor="0x000000" border="1" wordwrap="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderradius="1" borderalpha="1" background="1" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node6}" description="" target="175.9/-4.9/100.0" id="Point01" distance="4.70112" pan="-276.51" tilt="-1.33" skinid="ht_node" title="IMG_20210328_121507_00_114.insp"/>
+      <hotspot url="{node8}" description="" target="-96.7/-12.7/100.0" id="Point02" distance="1.89586" pan="-97.2" tilt="-24.62" skinid="ht_node" title="IMG_20210328_121648_00_116.insp"/>
+      <hotspot url="" description="La Catalana Bakery &amp; Restaurant is a restaurant that serves Cuban and Latin American on 4518 NW 183rd St in Miami Gardens, FL" target="" id="Point03" pan="-196.11" tilt="-33.77" skinid="ht_info" title="La Catalana"/>
+      <hotspot url="M8TPAC7KATE" description="" target="" id="Point04" pan="-211.49" tilt="-4.63" skinid="ht_video_youtube" title="Cafe Cubano"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" zoomfov="20" type="crossdissolve" blendcolor="0x000000" softedge="0" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomin="0" zoomspeed="2" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" simulatemass="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" sensitivity="8" invertwheel="0" speedwheel="1" hideabout="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltilesize="510" width="1520" height="1520" levelingroll="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level preload="0" width="1520" height="1520" predecode="0"/>
+      <level preload="0" width="760" height="760" predecode="0"/>
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="83.9" fovmode="0">
+      <start projection="4" fov="100" pan="172.78" tilt="-25.38"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata description="" longitude="-80.28105096" heading="83.9" datetime="3/28/2021 12:16 PM" info="" latitude="25.94000776" nodeid="node8" streetviewlink="https://www.google.com/maps/@25.9400078,-80.281051,3a,75y,271.12h/data=!3m4!1e1!3m2!1sAF1QipPLKyNXa0Wbd3PsrCFozHkRfu4aZBSUyk_O0N6Q!2e10" tags="jpg" copyright="" customnodeid="" altitude="3.00" source="" comment="" title="IMG_20210328_121648_00_116.insp" author=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" bordercolor="0x000000" border="1" wordwrap="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderradius="1" borderalpha="1" background="1" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node9}" description="" target="-102.0/-8.4/100.0" id="Point01" distance="3.1393" pan="-96.54" tilt="-23.41" skinid="ht_node" title="IMG_20210328_122035_00_117.insp"/>
+      <hotspot url="{node7}" description="" target="86.6/-10.1/100.0" id="Point02" distance="1.89586" pan="-278.43" tilt="-22.29" skinid="ht_node" title="IMG_20210328_121557_00_115.insp"/>
+      <hotspot url="{node11}" description="" target="175.6/-23.1/100.0" id="Point03" distance="1.91877" pan="-173.18" tilt="-30.31" skinid="ht_node" title="IMG_20210328_122645_00_119.insp"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" zoomfov="20" type="crossdissolve" blendcolor="0x000000" softedge="0" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomin="0" zoomspeed="2" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" simulatemass="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" sensitivity="8" invertwheel="0" speedwheel="1" hideabout="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltilesize="510" width="1520" height="1520" levelingroll="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level preload="0" width="1520" height="1520" predecode="0"/>
+      <level preload="0" width="760" height="760" predecode="0"/>
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="89.1" fovmode="0">
+      <start projection="4" fov="100" pan="176.32" tilt="-21.69"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata description="" longitude="-80.28105096" heading="89.1" datetime="3/28/2021 12:15 PM" info="" latitude="25.94006685" nodeid="node6" streetviewlink="https://www.google.com/maps/@25.9400669,-80.281051,3a,75y,272.78h/data=!3m4!1e1!3m2!1sAF1QipNUTXTKuuB0ZuAjNJO1q7n9vkYAoJueUmTw78UV!2e10" tags="jpg" copyright="" customnodeid="" altitude="2.80" source="" comment="" title="IMG_20210328_121507_00_114.insp" author=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" bordercolor="0x000000" border="1" wordwrap="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderradius="1" borderalpha="1" background="1" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node7}" description="" target="-98.9/-15.1/100.0" id="Point01" distance="4.70112" pan="-93.91" tilt="-16.75" skinid="ht_node" title="IMG_20210328_121557_00_115.insp"/>
+      <hotspot url="images/Guarapo.jpg" description="" target="" id="Point02" pan="-224.79" tilt="-16.93" skinid="ht_image" title="Guarapo Cubano"/>
+      <hotspot url="M8TPAC7KATE" description="" target="" id="Point03" pan="-177.4" tilt="-3.86" skinid="ht_video_youtube" title="Cafe Cubano"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" zoomfov="20" type="crossdissolve" blendcolor="0x000000" softedge="0" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomin="0" zoomspeed="2" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" simulatemass="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" sensitivity="8" invertwheel="0" speedwheel="1" hideabout="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltilesize="510" width="1520" height="1520" levelingroll="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level preload="0" width="1520" height="1520" predecode="0"/>
+      <level preload="0" width="760" height="760" predecode="0"/>
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="81.75" fovmode="0">
+      <start projection="4" fov="100" pan="170.26" tilt="-29.31"/>
+      <flyin projection="4" fov="100" pan="165.7" tilt="-11.74"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata description="" longitude="-80.28104694" heading="81.75" datetime="3/28/2021 12:20 PM" info="" latitude="25.93997976" nodeid="node9" streetviewlink="https://www.google.com/maps/@25.9399798,-80.2810469,3a,75y,271.49h/data=!3m4!1e1!3m2!1sAF1QipOS9Ar0-BxKEQd1gUoODloEk2oksP0fOh4UxnEG!2e10" tags="jpg" copyright="" customnodeid="" altitude="2.80" source="" comment="" title="IMG_20210328_122035_00_117.insp" author=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" bordercolor="0x000000" border="1" wordwrap="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderradius="1" borderalpha="1" background="1" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node8}" description="" target="175.9/-15.5/100.0" id="Point01" distance="3.1393" pan="-282.37" tilt="-12.03" skinid="ht_node" title="IMG_20210328_121648_00_116.insp"/>
+      <hotspot url="{node1}" description="" target="175.6/-27.8/100.0" id="Point02" distance="4.71631" pan="-43.72" tilt="1.39" skinid="ht_node" title="IMG_20210328_120552_00_109.insp"/>
+      <hotspot url="{node11}" description="" target="174.4/-13.5/100.0" id="Point04" distance="2.26409" pan="-222.69" tilt="-24.45" skinid="ht_node" title="IMG_20210328_122645_00_119.insp"/>
+      <hotspot url="images/pan de yema.jpg" description="El pan de yema es un pan dulce, donde la masa no requiere tanto líquido para formarla, si no que se usan las yemas y el huevo entero, se recomienda trabajar la masa en recipientes de madera y se mezcla de forma manual, hasta que adquiera el punto y consistencia que se busca." target="" id="Point03" pan="-68.58" tilt="-13.85" skinid="ht_image" title="Pan de yema"/>
+      <hotspot url="images/baguette frances.jpg" description="Una baguette​ o baguete​ es una variedad de pan que se caracteriza por emplear harina de trigo, por ser mucho más largo que ancho y por su corteza crujiente. Es ideal para la elaboración de bocadillos" target="" id="Point05" pan="-100.49" tilt="-18.58" skinid="ht_image" title="Baguette Frances"/>
+      <hotspot url="images/pan centeno.jpg" description="El pan de centeno es un tipo de pan elaborado con la harina de centeno, la panificación muestra una miga más oscura que el clásico pan de trigo, es por esta razón por la que se denomina a veces como pan negro." target="" id="Point06" pan="-80.24" tilt="-29.16" skinid="ht_image" title="Pan centeno"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" zoomfov="20" type="crossdissolve" blendcolor="0x000000" softedge="0" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomin="0" zoomspeed="2" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" simulatemass="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" sensitivity="8" invertwheel="0" speedwheel="1" hideabout="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltilesize="510" width="1520" height="1520" levelingroll="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level preload="0" width="1520" height="1520" predecode="0"/>
+      <level preload="0" width="760" height="760" predecode="0"/>
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="89.04" fovmode="0">
+      <start projection="4" fov="100" pan="174.4" tilt="-13.49"/>
+      <flyin projection="9" fov="100" pan="176.46" tilt="-16.59"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata description="" longitude="-80.28106287" heading="89.04" datetime="3/28/2021 12:26 PM" info="" latitude="25.93999423" nodeid="node11" streetviewlink="https://www.google.com/maps/@25.9399942,-80.2810629,3a,75y,274.64h/data=!3m4!1e1!3m2!1sAF1QipOrDCSjkmZMIPz2OD6w9by8MCTgRFyE0hJD6vk2!2e10" tags="jpg" copyright="" customnodeid="" altitude="2.30" source="" comment="" title="IMG_20210328_122645_00_119.insp" author=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" bordercolor="0x000000" border="1" wordwrap="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderradius="1" borderalpha="1" background="1" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node7}" description="" target="-1.7/0.0/100.0" id="Point01" distance="3.68233" pan="-326.11" tilt="-4.6" skinid="ht_node" title="IMG_20210328_121557_00_115.insp"/>
+      <hotspot url="{node9}" description="" target="-44.1/-16.4/100.0" id="Point02" distance="2.26409" pan="-57.62" tilt="-18.15" skinid="ht_node" title="IMG_20210328_122035_00_117.insp"/>
+      <hotspot url="https://lacatalanabakeryrestaurant.netwaiter.com/miami-gardens/about" description="" target="_blank" id="Point03" pan="-147.08" tilt="-10.29" skinid="ht_url" title="Cake tradicional"/>
+      <hotspot url="https://lacatalanabakeryrestaurant.netwaiter.com/miami-gardens/about" description="" target="_blank" id="Point04" pan="-166.52" tilt="-12.86" skinid="ht_url" title="Cake Vanilla"/>
+      <hotspot url="https://lacatalanabakeryrestaurant.netwaiter.com/miami-gardens/about" description="" target="_blank" id="Point05" pan="-185.7" tilt="-12.54" skinid="ht_url" title=""/>
+      <hotspot url="https://lacatalanabakeryrestaurant.netwaiter.com/miami-gardens/about" description="" target="_blank" id="Point06" pan="-208.32" tilt="-10.88" skinid="ht_url" title="Cake Black and White"/>
+      <hotspot url="https://lacatalanabakeryrestaurant.netwaiter.com/miami-gardens/about" description="" target="_blank" id="Point07" pan="-144.27" tilt="-21.8" skinid="ht_url" title="Cake 3 Leches"/>
+      <hotspot url="https://lacatalanabakeryrestaurant.netwaiter.com/miami-gardens/about" description="" target="_blank" id="Point08" pan="-164.06" tilt="-26.5" skinid="ht_url" title="Cake Happy Easter"/>
+      <hotspot url="https://lacatalanabakeryrestaurant.netwaiter.com/miami-gardens/about" description="" target="_blank" id="Point09" pan="-185.39" tilt="-27.92" skinid="ht_url" title="Cake Strawberry"/>
+      <hotspot url="https://lacatalanabakeryrestaurant.netwaiter.com/miami-gardens/about" description="" target="_blank" id="Point10" pan="-211.48" tilt="-24.73" skinid="ht_url" title="Cake Peaches"/>
+      <hotspot url="https://lacatalanabakeryrestaurant.netwaiter.com/miami-gardens/about" description="" target="_blank" id="Point11" pan="-226.74" tilt="-20.87" skinid="ht_url" title="Cake Chocolate"/>
+      <hotspot url="https://lacatalanabakeryrestaurant.netwaiter.com/miami-gardens/about" description="" target="_blank" id="Point12" pan="-223.01" tilt="-9.63" skinid="ht_url" title=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" zoomfov="20" type="crossdissolve" blendcolor="0x000000" softedge="0" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomin="0" zoomspeed="2" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" lockedwheel="0" simulatemass="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" sensitivity="8" invertwheel="0" speedwheel="1" hideabout="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" longitude="" heading="0" datetime="" info="" latitude="" nodeid="master" tags="" copyright="" customnodeid="" source="" comment="" title="" author=""/>
+  </masternode>
+</tour>
